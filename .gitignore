@@ -3,5 +3,8 @@
 [Bb]in/
 [Oo]bj/
 
+# Publish folder
+[Pp]ublish/
+
 # User-specific files
 *.user
