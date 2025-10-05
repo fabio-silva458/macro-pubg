@@ -1,0 +1,7 @@
+
+# Binaries
+[Bb]in/
+[Oo]bj/
+
+# User-specific files
+*.user
